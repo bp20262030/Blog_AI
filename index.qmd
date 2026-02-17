@@ -3,12 +3,12 @@ title: "양자컴퓨터의 시대가 온다: 2025년 최신 기술 동향과 전
 date: 2026-02-17
 categories: [Technology, QuantumComputing]
 tags: [양자컴퓨터, 양자우위, GoogleWillow, IT트렌드]
-image: image.jpg
+image: image.jpg?v=2
 ---
 
 # 양자컴퓨터의 시대가 온다: 2025년 최신 기술 동향과 전망
 
-![양자컴퓨터 이미지](image.jpg)
+![양자컴퓨터 이미지](image.jpg?v=2)
 
 미래의 기술로만 여겨졌던 **양자컴퓨터(Quantum Computer)**가 이제 실험실을 넘어 우리의 현실로 다가오고 있습니다. UN이 2025년을 '양자 과학 기술의 해'로 지정하고, 세계 최대 IT 전시회인 CES 2025에서 양자 컴퓨팅 부문이 신설되는 등 그 열기가 어느 때보다 뜨겁습니다.
 
